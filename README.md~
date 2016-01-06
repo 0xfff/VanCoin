@@ -1,3 +1,3 @@
-FooCoin (FOO)
+vancoin (FOO)
 
 Blah, blah, blah.
